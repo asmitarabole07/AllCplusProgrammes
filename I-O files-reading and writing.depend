@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622786066 source:c:\program files\codeblocks\share\codeblocks\xl\main.cpp
+	<iostream>
+	<fstream>
+
